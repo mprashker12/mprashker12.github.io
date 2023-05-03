@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Matthew Prashker"
   avatar           : "profile.png"
-  bio              : "I am currently a developer at DRW"
+  bio              : 
   location         : "Chicago, IL"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
