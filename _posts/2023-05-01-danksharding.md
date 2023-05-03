@@ -1,7 +1,7 @@
 ---
 title: 'Data Availability and Danksharding'
 date: April-2023
-permalink: /posts/2023/danksharding
+permalink: /posts/2023/05/danksharding
 tags:
 ---
 # Data Availability and Danksharding
