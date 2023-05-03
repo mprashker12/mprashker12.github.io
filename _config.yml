@@ -85,10 +85,10 @@ author:
   bio              : 
   location         : "Chicago, IL"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/mprashker12"
   google_plus      :
   keybase          :
   instagram        :
@@ -104,7 +104,7 @@ author:
   lastfm           :
   linkedin         :
   orcid            : 
-  pinterest        : "https://github.com/mprashker12"
+  pinterest        : 
   soundcloud       :
   stackoverflow    : 
   steam            :
